@@ -1,7 +1,4 @@
-# user-api
-
-- A webpage that fetches users by id
-- This is a project that was given to me by my coach samir
+# Planning
 
 ## User-persona
 
@@ -36,4 +33,14 @@
 
 ### Should have
 
-- Eye catching css styl
+- Eye catching css styling and Javescript animations.
+
+### Could have
+
+- Ability to add new users to the database
+
+## Constraints
+
+### Deadline
+
+- The project must be completed before sunday.
