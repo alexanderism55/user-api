@@ -89,3 +89,54 @@ background-color: #C5D8FE;
     height: 35px;
     font: size 18px;px;
 }
+
+.user-container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: flex-start;
+    border: 1px solid black;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.226);
+    box-sizing: border-box;
+    width: 800px;
+    height: 100%;
+    margin: 10px;
+    padding: 5px;
+    background-color:#0000007e;
+    color:white;
+}
+
+.user-header {
+    margin-left: 20px;
+}
+
+.user-allDetails {
+    list-style-type:none;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap:5px;
+    align-items:flex-start;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    justify-content:center;
+    align-items:space-between;
+}
+
+.error-class{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.226);
+    box-sizing: border-box;
+    width: 900px;
+    height: 160px;
+    margin-bottom: -30px;
+    padding: 5px;
+    background-color:#000000;
+    color:rgb(255, 0, 0);
+}
